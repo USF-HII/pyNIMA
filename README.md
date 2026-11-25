@@ -20,7 +20,7 @@ In family-based genetic and HLA association studies, `pyNIMA` evaluates child-mo
 Clone the repository and install in editable mode:
 
 ```bash
-git clone [https://github.com/USF-HII/pyNIMA.git](https://github.com/USF-HII/pyNIMA.git)
+git clone https://github.com/USF-HII/pyNIMA.git](https://github.com/USF-HII/pyNIMA.git
 cd pyNIMA
 pip install --no-build-isolation --no-deps -e .
 ```
